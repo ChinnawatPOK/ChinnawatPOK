@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChinnawatPOK
-- 👀 I’m interested in coding (Java, Spring, React, Sql ...)
+- 👀 I’m interested in coding (Java, Spring, React, Sql, GO ...)
 
 <!---
 ChinnawatPOK/ChinnawatPOK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
